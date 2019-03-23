@@ -1,0 +1,6 @@
+C:\Users\William\source\repos\LoyalistAutoNetworkMapper\LoyalistAutoNetworkMapper\bin\Release\LoyalistAutoNetworkMapper.exe
+C:\Users\William\source\repos\LoyalistAutoNetworkMapper\LoyalistAutoNetworkMapper\bin\Release\LoyalistAutoNetworkMapper.pdb
+C:\Users\William\source\repos\LoyalistAutoNetworkMapper\LoyalistAutoNetworkMapper\obj\Release\LoyalistAutoNetworkMapper.csprojAssemblyReference.cache
+C:\Users\William\source\repos\LoyalistAutoNetworkMapper\LoyalistAutoNetworkMapper\obj\Release\LoyalistAutoNetworkMapper.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\LoyalistAutoNetworkMapper\LoyalistAutoNetworkMapper\obj\Release\LoyalistAutoNetworkMapper.exe
+C:\Users\William\source\repos\LoyalistAutoNetworkMapper\LoyalistAutoNetworkMapper\obj\Release\LoyalistAutoNetworkMapper.pdb
