@@ -1,4 +1,4 @@
-AutoNetwork network mapping utility for MyLoyalist accounts. 
+Automatic Network mapping utility for MyLoyalist accounts. 
 Not endorsed by Loyalist College, use at your own risk. 
 
 The MyLoyalist portal does not by default support raw file access to network drives, instead preferring a web-based solution, this creates issues when trying to move uncompressed file collections with large numbers of individual files. The MyLoyalist web portal does however expose traditional WebDav paths which can be mapped as a network share.
