@@ -1,0 +1,11 @@
+AutoNetwork network mapping utility for MyLoyalist accounts. 
+Not endorsed by Loyalist College, use at your own risk. 
+
+The MyLoyalist portal does not by default support raw file access to network drives, instead preferring a web-based solution, this creates issues when trying to move uncompressed file collections with large numbers of individual files. The MyLoyalist web portal does however expose traditional WebDav paths which can be mapped as a network share.
+This a simple console utility which automatically sets up a network share to a students loyalist network shares.
+NOTE: Speed is not optimal still, likely due to throttling server side due to never intending regular network usage in such a fashion, also windows 7 is not supported, again likely due to policy restrictions on the loyalist network. But stability is now rock solid on large size transfers.
+
+Release Executable:
+https://s3.us-east-2.amazonaws.com/loyaliststudent/LoyalistAutoNetworkMapper.zip
+
+This zip also includes a registry fix to remove the 50mb webdav file size transfer limit.
